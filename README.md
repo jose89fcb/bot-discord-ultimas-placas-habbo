@@ -4,4 +4,4 @@ Comando para usar en discord: <b>!ultimasplacas</b>
 <br>
 Necesitas instalar python 3.7: https://www.python.org/downloads/release/python-370/
 
-#OBTEN UN TOKEN EN y un bot en: https://discord.com/developers/applications
+#obten un bot y un token en: https://discord.com/developers/applications
